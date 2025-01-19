@@ -5,7 +5,7 @@ on:
     branches:
       - main
   schedule:
-    - cron: "0 0 * * *" # Atualiza diariamente às 00:00 UTC
+    - cron: "* */12 * * *"
 
 jobs:
   generate:
@@ -15,10 +15,9 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake Animation
-        uses: Platane/snk@v2
+        uses: Platane/snk/svg-only@v2
         with:
           github_user_name: VictorDaisukeAraqui
-          outputs: dist/snake.svg
 
       - name: Push Animation to Repository
         uses: peaceiris/actions-gh-pages@v3
