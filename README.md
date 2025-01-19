@@ -22,7 +22,7 @@ I'm a technology and programming enthusiast, always looking to learn and explore
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between">
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorDaisukeAraqui&show_icons=true&theme=github_dark" alt="Estatísticas do GitHub"/>
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDaisukeAraqui&layout=compact&theme=github_dark" alt="Linguagens mais usadas"/>
 </div>
