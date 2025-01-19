@@ -22,7 +22,7 @@ I'm a technology and programming enthusiast, always looking to learn and explore
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: center; overflow-x: auto;">
+<div style="display: flex; flex-wrap: nowrap; justify-content: center; overflow-x: auto;">
   <a href="https://github.com/VictorDaisukeAraqui">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorDaisukeAraqui&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
   </a>
