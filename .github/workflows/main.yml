@@ -14,6 +14,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
+      - name: Debug Environment
+        run: |
+          echo "GitHub User: ${{ github.repository_owner }}"
+          echo "Repository: ${{ github.repository }}"
+
       - name: Generate Snake Animation
         uses: Platane/snk/svg-only@v2
         with:
