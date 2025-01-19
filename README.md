@@ -22,11 +22,7 @@ I'm a technology and programming enthusiast, always looking to learn and explore
 
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 10px; overflow-x: auto; white-space: nowrap;">
-  <a href="https://github.com/VictorDaisukeAraqui">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorDaisukeAraqui&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  </a>
-  <a href="https://github.com/VictorDaisukeAraqui">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDaisukeAraqui&layout=compact&langs_count=7&theme=github_dark" alt="Top Languages"/>
-  </a>
+<div style="display: flex; justify-content: center; overflow-x: auto;">
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorDaisukeAraqui&show_icons=true&theme=github_dark" alt="Estatísticas do GitHub"/>
+  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDaisukeAraqui&layout=compact&theme=github_dark" alt="Linguagens mais usadas"/>
 </div>
