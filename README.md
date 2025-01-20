@@ -4,6 +4,12 @@ I'm a technology and programming enthusiast, always looking to learn and explore
 
 ---
 
+<div align = "center">
+  <img src = "Anime_Studying.gif" alt = "Studying GIF" width = "100">
+</div>
+
+---
+
 ## 🚀 About Me
 
 - 💡 I love solving problems and creating codes that make people's lives easier.
@@ -20,9 +26,15 @@ I'm a technology and programming enthusiast, always looking to learn and explore
 
 ---
 
+<div align = "center">
+  <img src = "Anime_Programming.gif" alt = "Programming GIF" width = "250">
+</div>
+
+---
+
 ## 📈 GitHub Stats
 
-<div style="display: flex; justify-content: center; overflow-x: auto;">
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=VictorDaisukeAraqui&show_icons=true&theme=github_dark" alt="Estatísticas do GitHub"/>
-  <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDaisukeAraqui&layout=compact&theme=github_dark" alt="Linguagens mais usadas"/>
+<div style = "display: flex; justify-content: center; overflow-x: auto">
+  <img loading = "lazy" height = "150em" src = "https://github-readme-stats.vercel.app/api?username=VictorDaisukeAraqui&show_icons=true&theme=github_dark" alt = "Estatísticas do GitHub"/>
+  <img loading = "lazy" height = "150em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=VictorDaisukeAraqui&layout=compact&theme=github_dark" alt = "Linguagens mais usadas"/>
 </div>
